@@ -1,7 +1,7 @@
 {
   "name": "wlwl2-one-light-ui",
   "theme": "ui",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Atom One light UI theme with bug fix",
   "keywords": [
     "light",
@@ -12,7 +12,7 @@
   "repository": "https://github.com/wlwl2/wlwl2-one-light-ui",
   "main": "lib/main",
   "engines": {
-    "atom": ">0.40.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
   "devDependencies": {
     "coffeelint": "^1.9.7"
