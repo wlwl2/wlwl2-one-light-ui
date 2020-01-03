@@ -1,8 +1,8 @@
 # wlwl2 One Light UI 
 
-**The bug might already be fixed in the official package. 
+**The bug might already be fixed in the official package.**
 
-I had to create this repo quickly at work because my editor couldn't function 
+**I had to create this repo quickly at work because my editor couldn't function 
 because of this bug.**
 
 I would like to apologize sincerely that I didn't use VCS properly or recorded
