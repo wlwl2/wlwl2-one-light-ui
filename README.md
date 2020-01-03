@@ -1,42 +1,15 @@
-## One Light UI theme [![Build Status](https://travis-ci.org/atom/one-light-ui.svg?branch=master)](https://travis-ci.org/atom/one-light-ui)
+# wlwl2 One Light UI 
 
-A light UI theme that adapts to most syntax themes.
+**The bug might already be fixed in the official package. 
 
-![One light UI](https://cloud.githubusercontent.com/assets/378023/26246819/0826f04e-3cd6-11e7-98eb-cd94bc48b090.png)
+I had to create this repo quickly at work because my editor couldn't function 
+because of this bug.**
 
-> The font used in the screenshot is [Fira Mono](https://github.com/mozilla/Fira).
+I would like to apologize sincerely that I didn't use VCS properly or recorded
+the bug fix (the exact code I changed), but I guess if I have time I can still
+diff it. If I had/have time, I could have forked the repo and submitted a pull
+request.
 
+I am still using this package though...
 
-### Install
-
-This theme comes bundled with Atom and can be activated by going to the __Settings > Themes__ section and selecting "One Light" from the __UI Themes__ drop-down menu.
-
-
-### Settings
-
-In the theme settings you can:
-
-- Change the __Font Size__ to scale the whole UI up or down.
-- Choose between 3 __Tab Sizing__ modes.
-- Hide the  __dock buttons__.
-
-To make changes, go to `Settings > Themes > One Light UI > Settings` or the cog icon next to the theme picker.
-
-
-### Customize
-
-It's also possible to resize only certain areas by adding the following to your `styles.less` (Use DevTools to find the right selectors):
-
-```css
-.theme-wlwl2-one-light-ui {
-  .tab-bar { font-size: 18px; }
-  .tree-view { font-size: 14px; }
-  .status-bar { font-size: 12px; }
-}
-```
-
-
-### FAQ
-
-__Why do the colors change when I switch Syntax themes.__
-This UI theme uses the same background color as the chosen syntax theme. If that syntax theme has a dark background color, it only uses its hue, but otherwise stays light. This lets you use light-dark combos.
+Seems alright... :/
